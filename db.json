@@ -3,32 +3,53 @@
     {
       "id": 1,
       "type": "Meetup",
-      "title": "------"
+      "title": "------",
+      "online": true,
+      "location": null
     },
     {
       "id": 2,
       "type": "Leap",
-      "title": "------"
+      "title": "------",
+      "online": false,
+      "location": {
+        "country": "Canada",
+        "city": "Toronto"
+      }
     },
     {
       "id": 3,
       "type": "Recruiting Mission",
-      "title": "------"
+      "title": "------",
+      "online": false,
+      "location": {
+        "country": "Canada",
+        "city": "Vancouver"
+      }
     },
     {
       "id": 4,
       "type": "VanHackathon",
-      "title": "------"
+      "title": "------",
+      "online": true,
+      "location": null
     },
     {
       "id": 5,
       "type": "Premium",
-      "title": "------"
+      "title": "------",
+      "online": false,
+      "location": {
+        "country": "Canada",
+        "city": "Vancouver"
+      }
     },
     {
       "id": 6,
       "type": "Webinar",
-      "title": "Success Case: Sakshi’s Journey from India to Canada"
+      "title": "Success Case: Sakshi’s Journey from India to Canada",
+      "online": true,
+      "location": null
     }
   ]
 }
