@@ -1,3 +1,28 @@
 {
-  "events": []
+  "events": [
+    {
+      "id": 1,
+      "type": "Meetup"   
+    },
+    {
+      "id": 2,
+      "type": "Leap"   
+    },
+    {
+      "id": 3,
+      "type": "Recruiting Mission"   
+    },
+    {
+      "id": 4,
+      "type": "VanHackaton"   
+    },
+    {
+      "id": 5,
+      "type": "Premium"   
+    },
+    {
+      "id": 6,
+      "type": "Webinar"   
+    }
+  ]
 }
