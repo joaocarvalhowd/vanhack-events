@@ -2,27 +2,33 @@
   "events": [
     {
       "id": 1,
-      "type": "Meetup"   
+      "type": "Meetup",
+      "title": '------'
     },
     {
       "id": 2,
-      "type": "Leap"   
+      "type": "Leap",
+      "title": '------'   
     },
     {
       "id": 3,
-      "type": "Recruiting Mission"   
+      "type": "Recruiting Mission",
+      "title": '------'   
     },
     {
       "id": 4,
-      "type": "VanHackathon"   
+      "type": "VanHackathon",
+      "title": '------'   
     },
     {
       "id": 5,
-      "type": "Premium"   
+      "type": "Premium",
+      "title": '------'
     },
     {
       "id": 6,
-      "type": "Webinar"   
+      "type": "Webinar",
+      "title": "Success Case: Sakshi’s Journey from India to Canada"
     }
   ]
 }
