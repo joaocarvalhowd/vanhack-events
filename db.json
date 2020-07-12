@@ -3,27 +3,27 @@
     {
       "id": 1,
       "type": "Meetup",
-      "title": '------'
+      "title": "------"
     },
     {
       "id": 2,
       "type": "Leap",
-      "title": '------'   
+      "title": "------"
     },
     {
       "id": 3,
       "type": "Recruiting Mission",
-      "title": '------'   
+      "title": "------"
     },
     {
       "id": 4,
       "type": "VanHackathon",
-      "title": '------'   
+      "title": "------"
     },
     {
       "id": 5,
       "type": "Premium",
-      "title": '------'
+      "title": "------"
     },
     {
       "id": 6,
