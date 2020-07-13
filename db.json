@@ -3,7 +3,7 @@
     {
       "id": 1,
       "type": "Meetup",
-      "title": "------",
+      "title": "Changing careers to become a developer: Juliana's story.",
       "online": true,
       "location": null,
       "date": "2020-07-28T00:00:00",
@@ -13,7 +13,7 @@
     {
       "id": 2,
       "type": "Leap",
-      "title": "------",
+      "title": "Leap Toronto 2020",
       "online": false,
       "location": {
         "country": "Canada",
@@ -26,11 +26,11 @@
     {
       "id": 3,
       "type": "Recruiting Mission",
-      "title": "------",
+      "title": "Colombia Recruiting Mission",
       "online": false,
       "location": {
-        "country": "Canada",
-        "city": "Vancouver"
+        "country": "Colombia",
+        "city": "Medellin"
       },
       "date": "2020-09-22T00:00:00",
       "endApplicationDate": "2020-08-28T00:00:00",
@@ -39,7 +39,7 @@
     {
       "id": 4,
       "type": "VanHackathon",
-      "title": "------",
+      "title": "The VanHackathon 4.0",
       "online": true,
       "location": null,
       "date": "2020-10-08T00:00:00",
@@ -49,7 +49,7 @@
     {
       "id": 5,
       "type": "Premium",
-      "title": "------",
+      "title": "Interview-practice class",
       "online": false,
       "location": {
         "country": "Canada",
